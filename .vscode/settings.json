@@ -2,6 +2,10 @@
     "files.associations": {
         "iostream": "cpp",
         "algorithm": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "utility": "cpp",
+        "string": "cpp"
     }
 }
